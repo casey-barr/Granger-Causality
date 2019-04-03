@@ -1,4 +1,4 @@
-# Granger-Causality
+# Granger-Causality in R
 
 This repository will serve to document the econometric methods and models that I used when conducting research for my bachelor's thesis, *“Investigating the Ascendancy in Student Loan Demand through Granger-Causality”*, while a student at The Florida State University.
 
