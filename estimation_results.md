@@ -1,8 +1,10 @@
-# Estimation Results after fitting VAR models
+## Estimation Results after fitting VAR models
 
 ![loand_rent](https://user-images.githubusercontent.com/49072955/55503375-83186d80-561c-11e9-84dc-2b1397f77221.png)
 
 ![rent_loand](https://user-images.githubusercontent.com/49072955/55503403-9297b680-561c-11e9-9641-7fdb3fd3785e.png)
+
+
 
 ## Results of F-Type Granger-Causality tests
 
